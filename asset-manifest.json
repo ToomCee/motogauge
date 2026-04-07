@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motogauge/static/css/main.e6c13ad2.css",
+    "main.js": "/motogauge/static/js/main.6df6b558.js",
+    "static/js/453.cc6f12f6.chunk.js": "/motogauge/static/js/453.cc6f12f6.chunk.js",
+    "index.html": "/motogauge/index.html",
+    "main.e6c13ad2.css.map": "/motogauge/static/css/main.e6c13ad2.css.map",
+    "main.6df6b558.js.map": "/motogauge/static/js/main.6df6b558.js.map",
+    "453.cc6f12f6.chunk.js.map": "/motogauge/static/js/453.cc6f12f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6df6b558.js"
+  ]
+}
